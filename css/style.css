@@ -3,6 +3,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    font-family: 'Balsamiq Sans', cursive;
 }
 
 .logo-text
@@ -25,7 +26,7 @@ main
 {
     padding-top: 50px;
     background-color: lightgray;
-    min-height: 100vh;
+    min-height: 1000px;
 }
 
 .container-main
@@ -38,7 +39,7 @@ main
 
 .section-1
 {   
-    padding: 10px 35px;
+    padding: 20px 35px;
     border-bottom: 1px solid lightgray;
 }
 
@@ -59,4 +60,34 @@ main
     color: lightgray;
     border-radius: 5px;
     border: 1px solid lightgray;
+}
+
+li
+{
+    list-style: none;
+    padding: 10px 0px;
+}
+
+.padding-custom
+{
+    padding: 20px 35px;
+}
+
+.editorial
+{
+    background-color: dodgerblue;
+    font-size: ;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+}
+
+.true
+{
+    color: green;
+}
+
+.false
+{
+    color: red;
 }

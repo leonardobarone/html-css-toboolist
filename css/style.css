@@ -4,3 +4,26 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+.logo-text
+{
+    vertical-align: middle;
+    display: inline-block;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.logo-img
+{   
+    vertical-align: middle;
+}
+
+.container
+{
+    margin: 20px;
+}
+
+main
+{
+    background-color: gray;
+    height: 1000px;
+}

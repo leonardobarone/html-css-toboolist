@@ -73,9 +73,9 @@ li
     padding: 20px 35px;
 }
 
-.editorial
+.forma-categoria
 {
-    background-color: dodgerblue;
+    vertical-align: middle;
     font-size: 8px;
     padding: 6px 10px;
     color: white;
@@ -85,63 +85,50 @@ li
 .editorial
 {
     background-color: dodgerblue;
-    font-size: 8px;
-    padding: 6px 10px;
-    color: white;
-    border-radius: 10px;
 }
 
 .q1-goals
 {
     background-color: violet;
-    font-size: 8px;
-    padding: 6px 10px;
-    color: white;
-    border-radius: 10px;
 }
 
 .recruiting
 {
     background-color: green;
-    font-size: 8px;
-    padding: 6px 10px;
-    color: white;
-    border-radius: 10px;
 }
 
 .mobile
 {
     background-color: orange;
-    font-size: 8px;
-    padding: 6px 10px;
-    color: white;
-    border-radius: 10px;
 }
 
 .website
 {
     background-color: pink;
-    font-size: 8px;
-    padding: 6px 10px;
-    color: white;
-    border-radius: 10px;
 }
 
 .sales
 {
     background-color: greenyellow;
-    font-size: 8px;
-    padding: 6px 10px;
-    color: white;
-    border-radius: 10px;
 }
 
 .true
 {
     color: green;
+    border: 1px solid green;
 }
 
 .false
 {
     color: red;
+    border: 1px solid red;
+}
+
+.cerchio
+{
+    display: inline-block;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    text-align: center;
 }

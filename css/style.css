@@ -76,8 +76,62 @@ li
 .editorial
 {
     background-color: dodgerblue;
-    font-size: ;
-    padding: 5px;
+    font-size: 8px;
+    padding: 6px 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.editorial
+{
+    background-color: dodgerblue;
+    font-size: 8px;
+    padding: 6px 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.q1-goals
+{
+    background-color: violet;
+    font-size: 8px;
+    padding: 6px 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.recruiting
+{
+    background-color: green;
+    font-size: 8px;
+    padding: 6px 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.mobile
+{
+    background-color: orange;
+    font-size: 8px;
+    padding: 6px 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.website
+{
+    background-color: pink;
+    font-size: 8px;
+    padding: 6px 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.sales
+{
+    background-color: greenyellow;
+    font-size: 8px;
+    padding: 6px 10px;
     color: white;
     border-radius: 10px;
 }
